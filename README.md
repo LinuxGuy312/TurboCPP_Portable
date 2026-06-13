@@ -39,11 +39,19 @@ This project preserves the original Turbo C++ experience while improving usabili
 
 ---
 
+## Screenshots
+
+ Welcome Screen | Editor |
+|---|---|
+| ![Welcome Screen](screenshots/welcome.png) | ![Editor Screen](screenshots/editor.png)
+
+---
+
 ## Getting Started
 
 ### Download
 
-Download the latest release from the [Releases](/releases) section.
+Download the latest release from the [Releases](../../releases) section.
 
 ### Run
 
@@ -71,7 +79,7 @@ No installation or administrator privileges are required.
 | Alt + X     | Exit            |
 
 > [!NOTE]
-> You'll see these shortcuts every time you launch Turbo C++.
+> _You'll see these shortcuts every time you launch Turbo C++._
 
 ---
 ## Why This Exists
